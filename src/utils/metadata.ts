@@ -489,7 +489,7 @@ export const siteMetaData = {
     footerSection2: {
       title: "BRANDS",
       content1: "gasstovecare@gmail.com",
-      content2: 18001235871,
+      content2: 18001235778,
     },
     footerSection3: {
       title: "CONTACT",
