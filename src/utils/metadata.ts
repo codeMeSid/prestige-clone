@@ -464,7 +464,7 @@ export const siteBrands: Record<
 export const siteMetaData = {
   GlobalLayout: {
     contactBannerBgColor: "#3226ed",
-    contactBannerText: 18001235871,
+    contactBannerText: 18001235778,
     siteLogoSrc:
       "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=232,fit=crop,q=95/A85Er13l6yT19Lvr/whatsapp-image-2025-01-09-at-11.21.04-pm-AQEDV2vegOHZ0O7v.jpeg",
     footerBgColor: "#1E1A17",
@@ -489,7 +489,7 @@ export const siteMetaData = {
     footerSection2: {
       title: "BRANDS",
       content1: "gasstovecare@gmail.com",
-      content2: 18001235871,
+      content2: 18001235778,
     },
     footerSection3: {
       title: "CONTACT",
