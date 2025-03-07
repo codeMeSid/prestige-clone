@@ -71,14 +71,14 @@ const FooterLayout = () => {
           <Typography variant="h6" fontWeight="bold">
             {siteMetaData.GlobalLayout.footerSection2.title}
           </Typography>
-          <Typography variant="body2">
+          {/* <Typography variant="body2">
             <a
               href="mailto:gasstovecare@gmail.com"
               style={{ color: "white", textDecoration: "underline" }}
             >
               {siteMetaData.GlobalLayout.footerSection2.content1}
             </a>
-          </Typography>
+          </Typography> */}
           <Typography
             component="a"
             href={`tel:${siteMetaData.GlobalLayout.contactBannerText}`}
