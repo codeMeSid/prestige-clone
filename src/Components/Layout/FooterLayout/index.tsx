@@ -1,4 +1,4 @@
-import { Box, Button, Grid2, TextField, Typography } from "@mui/material";
+import { Box, Grid2, Typography } from "@mui/material";
 import { siteMetaData } from "@sid/src/utils/metadata";
 
 const FooterLayout = () => {
@@ -26,7 +26,7 @@ const FooterLayout = () => {
       >
         {/* Support Section 1 */}
         <Grid2
-          size={{ xs: 12, md: 4 }}
+          size={{ xs: 12, md: 8 }}
           sx={{
             display: "flex",
             flexDirection: "column",
@@ -89,7 +89,7 @@ const FooterLayout = () => {
         </Grid2>
 
         {/* Contact Section 3*/}
-        <Grid2
+        {/* <Grid2
           size={{ xs: 12, md: 4 }}
           sx={{
             display: "flex",
@@ -124,7 +124,7 @@ const FooterLayout = () => {
           >
             Book your service now
           </Button>
-        </Grid2>
+        </Grid2> */}
       </Grid2>
 
       {/* Copyright */}
